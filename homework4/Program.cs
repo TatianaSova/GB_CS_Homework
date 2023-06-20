@@ -15,5 +15,5 @@ if (a==с)
 }
 else
 {
- Console.WriteLine($"a={a}, b={b}? c={c}  -> max={c}");
+ Console.WriteLine($"a={a}, b={b}? c={c} -> max={c}");
 }
